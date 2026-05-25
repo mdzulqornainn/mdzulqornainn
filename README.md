@@ -17,7 +17,7 @@ Saya seorang **Front-End Web Developer** yang berdomisili di Indonesia. Saat ini
 *   **Operating System:** Arch Linux (BTW!) 🐧
 *   **Window Manager:** Hyprland 🌊
 *   **Focus:** Front-End Development & UI/UX Optimization.
-*   **Current Project:** [Sancora](https://github.com/your-username/sancora) (Marketplace Web App).
+*   **Current Project:** [Sancora](https://github.com/mdzulqornainn/sancora) (Marketplace Web App).
 *   **Competition:** Aktif mempersiapkan diri untuk **Gemastik** melalui HINCAR TIK.
 
 ---
