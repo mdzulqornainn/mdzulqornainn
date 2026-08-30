@@ -10,20 +10,5 @@ Saya seorang **Front-End Web Developer** yang berdomisili di Indonesia. Saat ini
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### 💻 Tentang Saya
-*   **Operating System:** Arch Linux (BTW!) 🐧
-*   **Window Manager:** Hyprland 🌊
-*   **Focus:** Front-End Development & UI/UX Optimization.
-*   **Current Project:** [Sancora](https://github.com/mdzulqornainn/sancora) (Marketplace Web App).
-*   **Competition:** Aktif mempersiapkan diri untuk **Gemastik** melalui HINCAR TIK.
-
----
-
-### 🕹 Pacman Status
-Berikut adalah status aktivitas coding saya saat ini:
-
-```text
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░] 80%
+![Python](https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/cpp-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
